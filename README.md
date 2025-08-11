@@ -1,22 +1,28 @@
 # 👋 Hi, I'm Krishna Prasath A
 
 🚀 **Full-Stack Developer | IoT Solutions Engineer | Python & JavaScript Specialist**  
-💼 **Currently at Onwords** — delivering scalable IoT smart home solutions & intelligent web platforms  
-🌏 India | **1 year 11 months** of professional experience
+💼 Currently at **Onwords** — delivering scalable IoT smart home solutions & intelligent web platforms  
+🌏 India | **2+ years** of professional experience  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnaprasath10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-prasath-592385247)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnaprasath10)
 ![Profile Views](https://komarev.com/ghpvc/?username=krishnaprasath10&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
 ## 💡 About Me
-I’m a results-driven developer passionate about **IoT automation, backend APIs, and cloud architecture**.  
-I specialize in building **secure, scalable, and data-driven** applications that connect hardware with intelligent software.
+Full-Stack Developer with proven ability to take projects from **concept to deployment**, optimizing performance, usability, and efficiency.  
+Experienced in **end-to-end development**, IoT integrations, and automation for web & cloud platforms.
+
+Specializing in:
+- **Backend Engineering** with Python (Django, Flask, FastAPI) & REST APIs
+- **IoT & Automation** (MQTT, Google Home Actions, Alexa Skills, Matter Protocol, Thread)
+- **Scalable Cloud Deployments** using AWS EC2, Lambda, and Firebase
+- **Data Visualization & Dashboards** for real-time analytics
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,8 +30,8 @@ I specialize in building **secure, scalable, and data-driven** applications that
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Databases & Cloud**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,14 +41,16 @@ I specialize in building **secure, scalable, and data-driven** applications that
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Protocols & Integrations**  
+**Tools & Others**  
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Google Home](https://img.shields.io/badge/Google%20Home-4285F4?style=for-the-badge&logo=googlehome&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 ![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaprasath10&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaprasath10&layout=compact&theme=tokyonight)
 
