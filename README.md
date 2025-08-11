@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krishna Prasath A
 
-🚀 **Full-Stack Developer | IoT Solutions Engineer | Python & JavaScript Specialist**  
+🚀 **Full-Stack Developer | Python Developer**  
 💼 Currently at **Onwords** — delivering scalable IoT smart home solutions & intelligent web platforms  
 🌏 India | **2+ years** of professional experience  
 
