@@ -50,10 +50,4 @@ Specializing in:
 
 ---
 
-## 📈 GitHub Stats
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaprasath10&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaprasath10&layout=compact&theme=tokyonight)
-
----
-
 💬 _"Code is not just about solving problems, it’s about building possibilities."_
