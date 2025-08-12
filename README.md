@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Developer | Python Developer** 
 💼 Currently at **Onwords** — delivering scalable IoT smart home solutions & intelligent web platforms  
-🌏 India | **2+ years** of professional experience  
+🌏 India | **2+ years** of professional experience 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-prasath-592385247)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnaprasath10)
