@@ -9,7 +9,7 @@
 
 ---
 
-## 💡 About Me 
+## 💡 About Me  
 Full-Stack Developer with proven ability to take projects from **concept to deployment**, optimizing performance, usability, and efficiency.  
 Experienced in **end-to-end development**, IoT integrations, and automation for web & cloud platforms.
 
