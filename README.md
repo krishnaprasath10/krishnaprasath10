@@ -13,7 +13,7 @@
 Full-Stack Developer with proven ability to take projects from **concept to deployment**, optimizing performance, usability, and efficiency.  
 Experienced in **end-to-end development**, IoT integrations, and automation for web & cloud platforms.
 
-Specializing in:
+Specializing in: 
 - **Backend Engineering** with Python (Django, Flask, FastAPI) & REST APIs
 - **IoT & Automation** (MQTT, Google Home Actions, Alexa Skills, Matter Protocol, Thread)
 - **Scalable Cloud Deployments** using AWS EC2, Lambda, and Firebase
